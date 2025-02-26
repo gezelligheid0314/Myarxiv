@@ -15,8 +15,13 @@ title = "Machine Learning"
 
 [[sources]]
 limit = 150
-category = "cs.AG"
-title = "Agent"
+category = "cs.MS"
+title = "Multiagent Systems"
+
+[[sources]]
+limit = 150
+category = "cs.AI"
+title = "Artificial Intelligence"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
